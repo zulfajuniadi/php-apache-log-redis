@@ -1,0 +1,13 @@
+{
+    "name": "zulfajuniadi/logger",
+    "authors": [
+        {
+            "name": "Zulfa Juniadi Zulkifli",
+            "email": "zulfajuniadi@gmail.com"
+        }
+    ],
+    "require": {
+        "predis/predis": "~1.0",
+        "vlucas/phpdotenv": "~1.1"
+    }
+}
